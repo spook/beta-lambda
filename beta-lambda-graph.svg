@@ -1,0 +1,882 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="14in"
+   height="8.5in"
+   viewBox="0 0 355.6 215.9"
+   version="1.1"
+   id="svg2956"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="beta-lambda-graph.svg">
+  <defs
+     id="defs2950">
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker31029"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path31027"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000080;fill-opacity:1;fill-rule:evenodd;stroke:#000080;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker30511"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:collect="always">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#000080;fill-opacity:1;fill-rule:evenodd;stroke:#000080;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path30509" />
+    </marker>
+    <marker
+       inkscape:stockid="SquareM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker27613"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path27611"
+         d="M -5,-5 V 5 H 5 V -5 Z"
+         style="fill:#37c8ab;fill-opacity:1;fill-rule:evenodd;stroke:#37c8ab;stroke-width:1pt;stroke-opacity:1"
+         transform="scale(0.4)" />
+    </marker>
+    <marker
+       inkscape:stockid="DotM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker27695"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path27693"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         style="fill:#37c8ab;fill-opacity:1;fill-rule:evenodd;stroke:#37c8ab;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(0.4,0,0,0.4,2.96,0.4)" />
+    </marker>
+    <marker
+       inkscape:stockid="SquareM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker27783"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path27781"
+         d="M -5,-5 V 5 H 5 V -5 Z"
+         style="fill:#37c8ab;fill-opacity:1;fill-rule:evenodd;stroke:#37c8ab;stroke-width:1pt;stroke-opacity:1"
+         transform="scale(0.4)" />
+    </marker>
+    <marker
+       inkscape:stockid="SquareM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker28321"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path28319"
+         d="M -5,-5 V 5 H 5 V -5 Z"
+         style="fill:#d3bc5f;fill-opacity:1;fill-rule:evenodd;stroke:#d3bc5f;stroke-width:1pt;stroke-opacity:1"
+         transform="scale(0.4)" />
+    </marker>
+    <marker
+       inkscape:stockid="DotM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker28439"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path28437"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         style="fill:#d3bc5f;fill-opacity:1;fill-rule:evenodd;stroke:#d3bc5f;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(0.4,0,0,0.4,2.96,0.4)" />
+    </marker>
+    <marker
+       inkscape:stockid="SquareM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker28563"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path28561"
+         d="M -5,-5 V 5 H 5 V -5 Z"
+         style="fill:#d3bc5f;fill-opacity:1;fill-rule:evenodd;stroke:#d3bc5f;stroke-width:1pt;stroke-opacity:1"
+         transform="scale(0.4)" />
+    </marker>
+    <marker
+       inkscape:stockid="SquareM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker28747"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path28745"
+         d="M -5,-5 V 5 H 5 V -5 Z"
+         style="fill:#3737c8;fill-opacity:1;fill-rule:evenodd;stroke:#3737c8;stroke-width:1pt;stroke-opacity:1"
+         transform="scale(0.4)" />
+    </marker>
+    <marker
+       inkscape:stockid="DotM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker28883"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path28881"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         style="fill:#3737c8;fill-opacity:1;fill-rule:evenodd;stroke:#3737c8;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(0.4,0,0,0.4,2.96,0.4)" />
+    </marker>
+    <marker
+       inkscape:stockid="SquareM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker29025"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path29023"
+         d="M -5,-5 V 5 H 5 V -5 Z"
+         style="fill:#3737c8;fill-opacity:1;fill-rule:evenodd;stroke:#3737c8;stroke-width:1pt;stroke-opacity:1"
+         transform="scale(0.4)" />
+    </marker>
+    <marker
+       inkscape:stockid="SquareM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker27931"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path27929"
+         d="M -5,-5 V 5 H 5 V -5 Z"
+         style="fill:#aad400;fill-opacity:1;fill-rule:evenodd;stroke:#aad400;stroke-width:1pt;stroke-opacity:1"
+         transform="scale(0.4)" />
+    </marker>
+    <marker
+       inkscape:stockid="DotM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker28031"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path28029"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         style="fill:#aad400;fill-opacity:1;fill-rule:evenodd;stroke:#aad400;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(0.4,0,0,0.4,2.96,0.4)" />
+    </marker>
+    <marker
+       inkscape:stockid="SquareM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker28137"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path28135"
+         d="M -5,-5 V 5 H 5 V -5 Z"
+         style="fill:#aad400;fill-opacity:1;fill-rule:evenodd;stroke:#aad400;stroke-width:1pt;stroke-opacity:1"
+         transform="scale(0.4)" />
+    </marker>
+    <marker
+       inkscape:stockid="SquareM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="SquareM"
+       style="overflow:visible"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         inkscape:connector-curvature="0"
+         id="path25854"
+         d="M -5,-5 V 5 H 5 V -5 Z"
+         style="fill:#ff6600;fill-opacity:1;fill-rule:evenodd;stroke:#ff6600;stroke-width:1pt;stroke-opacity:1"
+         transform="scale(0.4)" />
+    </marker>
+    <marker
+       inkscape:stockid="DotM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="DotM"
+       style="overflow:visible"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         inkscape:connector-curvature="0"
+         id="path25845"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         style="fill:#ff6600;fill-opacity:1;fill-rule:evenodd;stroke:#ff6600;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(0.4,0,0,0.4,2.96,0.4)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lstart"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path25781"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(0.8,0,0,0.8,10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker26579"
+       style="overflow:visible"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         inkscape:connector-curvature="0"
+         id="path26577"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="SquareM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker29761"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path29759"
+         d="M -5,-5 V 5 H 5 V -5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         transform="scale(0.4)" />
+    </marker>
+    <marker
+       inkscape:stockid="DotM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker29933"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path29931"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(0.4,0,0,0.4,2.96,0.4)" />
+    </marker>
+    <marker
+       inkscape:stockid="SquareM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker30111"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path30109"
+         d="M -5,-5 V 5 H 5 V -5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         transform="scale(0.4)" />
+    </marker>
+    <marker
+       inkscape:stockid="SquareM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker29263"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path29261"
+         d="M -5,-5 V 5 H 5 V -5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         transform="scale(0.4)" />
+    </marker>
+    <marker
+       inkscape:stockid="DotM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker29417"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path29415"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(0.4,0,0,0.4,2.96,0.4)" />
+    </marker>
+    <marker
+       inkscape:stockid="SquareM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker29577"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path29575"
+         d="M -5,-5 V 5 H 5 V -5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         transform="scale(0.4)" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker27335"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="SquareM">
+      <path
+         inkscape:connector-curvature="0"
+         transform="scale(0.4)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M -5,-5 V 5 H 5 V -5 Z"
+         id="path27333" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker27399"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="DotM">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(0.4,0,0,0.4,2.96,0.4)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         id="path27397" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker27469"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="SquareM">
+      <path
+         inkscape:connector-curvature="0"
+         transform="scale(0.4)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M -5,-5 V 5 H 5 V -5 Z"
+         id="path27467" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker27121"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="SquareM"
+       inkscape:collect="always">
+      <path
+         inkscape:connector-curvature="0"
+         transform="scale(0.4)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M -5,-5 V 5 H 5 V -5 Z"
+         id="path27119" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker27167"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="DotM"
+       inkscape:collect="always">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(0.4,0,0,0.4,2.96,0.4)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         id="path27165" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker27219"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="SquareM"
+       inkscape:collect="always">
+      <path
+         inkscape:connector-curvature="0"
+         transform="scale(0.4)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M -5,-5 V 5 H 5 V -5 Z"
+         id="path27217" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="761.62"
+     inkscape:cy="263.27"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="in"
+     inkscape:window-width="1920"
+     inkscape:window-height="1115"
+     inkscape:window-x="0"
+     inkscape:window-y="28"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata2953">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-81.1)">
+    <text
+       xml:space="preserve"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23325px;line-height:150%;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.52916;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       x="84.081"
+       y="108.28"
+       id="text30371"><tspan
+         sodipodi:role="line"
+         x="84.081"
+         y="108.28"
+         style="line-height:150%;stroke-width:0.52916"
+         id="tspan4630"><tspan
+   dy="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -1.5119"
+   id="tspan4632"
+   style="line-height:150%;stroke-width:0.52916">Shows individual latency (λ) &amp; total latency (Λ = <tspan
+   style="font-size:5.64444px;line-height:150%"
+   id="tspan4643">Σ</tspan>λ<tspan
+   style="font-size:2.11667px;line-height:150%"
+   id="tspan4628"
+   dy="1.5119">i</tspan>)</tspan> </tspan><tspan
+         sodipodi:role="line"
+         x="84.081"
+         y="115.32"
+         style="line-height:150%;stroke-width:0.52916"
+         id="tspan30373">vs. the bandwidth for the <tspan
+   style="font-weight:bold;line-height:150%;stroke-width:0.52916"
+   id="tspan31597">hops</tspan> of a network <tspan
+   style="font-weight:bold;line-height:150%;stroke-width:0.52916"
+   id="tspan31595">path.</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="84.081"
+         y="121.67"
+         style="line-height:150%;stroke-width:0.52916"
+         id="tspan31603">The lowest bandwidth limits (sets) the overall path bandwidth (Β).</tspan></text>
+    <path
+       style="color:#000000;display:inline;overflow:visible;opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:url(#marker27121);marker-mid:url(#marker27167);marker-end:url(#marker27219);paint-order:markers fill stroke"
+       d="M 65.362,130.58 V 125.4"
+       id="path27599"
+       inkscape:connector-curvature="0" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:url(#marker27335);marker-mid:url(#marker27399);marker-end:url(#marker27469);paint-order:markers fill stroke"
+       d="m 40.521,135.02 v -7.84"
+       id="path27117"
+       inkscape:connector-curvature="0" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:url(#marker29263);marker-mid:url(#marker29417);marker-end:url(#marker29577);paint-order:markers fill stroke"
+       d="m 51.471,127.18 v -10.8"
+       id="path27607"
+       inkscape:connector-curvature="0" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:url(#marker29761);marker-mid:url(#marker29933);marker-end:url(#marker30111);paint-order:markers fill stroke"
+       d="m 54.572,116.38 v 14.2"
+       id="path27603"
+       inkscape:connector-curvature="0" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:url(#Arrow1Lstart);marker-end:url(#marker26579);paint-order:markers fill stroke"
+       d="m 31.632,112.24 v 32.25 h 62.289"
+       id="path26549"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52775px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.52916;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       x="42.082"
+       y="149.14"
+       id="text26619"><tspan
+         sodipodi:role="line"
+         id="tspan26617"
+         x="42.082"
+         y="149.14"
+         style="font-size:3.52775px;stroke-width:0.52916">stacked latency λ (nsec)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52775px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:middle;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.52916;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       x="-130.17"
+       y="24.024"
+       id="text26623"
+       transform="rotate(-90)"><tspan
+         sodipodi:role="line"
+         id="tspan26621"
+         x="-129.61"
+         y="24.024"
+         style="font-size:3.52775px;text-align:center;text-anchor:middle;stroke-width:0.52916">Bandwidth β </tspan><tspan
+         sodipodi:role="line"
+         x="-130.17"
+         y="28.257"
+         style="font-size:3.52775px;text-align:center;text-anchor:middle;stroke-width:0.52916"
+         id="tspan26625">(color-log scale)</tspan></text>
+    <path
+       style="color:#000000;display:inline;overflow:visible;opacity:1;vector-effect:none;fill:#ff6600;fill-opacity:1;fill-rule:evenodd;stroke:#ff6600;stroke-width:0.3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:url(#SquareM);marker-mid:url(#DotM);marker-end:url(#SquareM);paint-order:markers fill stroke"
+       d="m 34.882,135.02 h 5.639"
+       id="path27331"
+       inkscape:connector-curvature="0" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#aad400;stroke-width:0.3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:url(#marker27931);marker-mid:url(#marker28031);marker-end:url(#marker28137);paint-order:markers fill stroke"
+       d="m 40.521,127.18 h 10.95"
+       id="path27609"
+       inkscape:connector-curvature="0" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#3737c8;stroke-width:0.3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:url(#marker28747);marker-mid:url(#marker28883);marker-end:url(#marker29025);paint-order:markers fill stroke"
+       d="m 51.471,116.38 h 3.101"
+       id="path27605"
+       inkscape:connector-curvature="0" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#d3bc5f;stroke-width:0.3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:url(#marker28321);marker-mid:url(#marker28439);marker-end:url(#marker28563);paint-order:markers fill stroke"
+       d="m 54.572,130.58 h 10.79"
+       id="path27601"
+       inkscape:connector-curvature="0" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#37c8ab;stroke-width:0.3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:url(#marker27613);marker-mid:url(#marker27695);marker-end:url(#marker27783);paint-order:markers fill stroke"
+       d="m 65.362,125.4 h 7.249"
+       id="path26631"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23325px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.05;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       x="107.97"
+       y="134.87"
+       id="text30377"><tspan
+         sodipodi:role="line"
+         id="tspan30375"
+         x="107.97"
+         y="134.87"
+         style="stroke-width:0.05;stroke-miterlimit:4;stroke-dasharray:none">In a beta-lambda graph, the vertical axis indicates bandwidth; </tspan><tspan
+         sodipodi:role="line"
+         x="107.97"
+         y="139.95"
+         style="stroke-width:0.05;stroke-miterlimit:4;stroke-dasharray:none"
+         id="tspan4684">typically on a log10 scale.  When colors are available, the bandwidth is</tspan><tspan
+         sodipodi:role="line"
+         x="107.97"
+         y="145.03"
+         style="stroke-width:0.05;stroke-miterlimit:4;stroke-dasharray:none"
+         id="tspan30381">redundantly indicated by the colors.  These colors should also be used</tspan><tspan
+         sodipodi:role="line"
+         x="107.97"
+         y="150.11"
+         style="stroke-width:0.05;stroke-miterlimit:4;stroke-dasharray:none"
+         id="tspan30427">in network topology diagrams where the lines (edges) use the same colors:</tspan><tspan
+         sodipodi:role="line"
+         x="107.97"
+         y="155.19"
+         style="fill:#666666;stroke-width:0.05;stroke-miterlimit:4;stroke-dasharray:none"
+         id="tspan30383" /><tspan
+         sodipodi:role="line"
+         x="107.97"
+         y="160.27"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace;fill:#000080;stroke-width:0.05;stroke-miterlimit:4;stroke-dasharray:none"
+         id="tspan30461">    navy   - 100Tbps+ (not part of resistor colors but the future is close!)</tspan><tspan
+         sodipodi:role="line"
+         x="107.97"
+         y="165.35"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace;fill:#008080;stroke-width:0.05;stroke-miterlimit:4;stroke-dasharray:none"
+         id="tspan30711">    teal   - 10Tbps   (not part of the resistor colors, but networks are fast </tspan><tspan
+         sodipodi:role="line"
+         x="107.97"
+         y="170.43"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace;fill:#008080;stroke-width:0.05;stroke-miterlimit:4;stroke-dasharray:none"
+         id="tspan4119">                         enough that we need this now)</tspan><tspan
+         sodipodi:role="line"
+         x="107.97"
+         y="175.51"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace;fill:#f2f2f2;stroke-width:0.05;stroke-miterlimit:4;stroke-dasharray:none"
+         id="tspan30491">    <tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace;fill:#f2f2f2;stroke:#000000;stroke-width:0.05;stroke-miterlimit:4;stroke-dasharray:none"
+   id="tspan30465">white  - 1Tbps<tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace;fill:#81ffff;fill-opacity:1;stroke-width:0.05"
+   id="tspan30497">    </tspan></tspan><tspan
+   id="tspan30495"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace;fill:#81ffff;fill-opacity:1;stroke:none;stroke-width:0.05;stroke-miterlimit:4;stroke-dasharray:none">(use light cyan/&quot;electric blue&quot; if white doesn't show well)</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="107.97"
+         y="180.59"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace;fill:#666666;stroke-width:0.05;stroke-miterlimit:4;stroke-dasharray:none"
+         id="tspan30463">    slate  - 100Gbps</tspan><tspan
+         sodipodi:role="line"
+         x="107.97"
+         y="185.67"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace;fill:#5637ca;fill-opacity:1;stroke-width:0.05;stroke-miterlimit:4;stroke-dasharray:none"
+         id="tspan4150">    indigo - 40Gbps   (not part of the resistor colors but a common link </tspan><tspan
+         sodipodi:role="line"
+         x="107.97"
+         y="190.75"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace;fill:#5637ca;fill-opacity:1;stroke-width:0.05;stroke-miterlimit:4;stroke-dasharray:none"
+         id="tspan4152">                         speed so an intermediate color is used speeds)</tspan><tspan
+         sodipodi:role="line"
+         x="107.97"
+         y="195.83"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace;fill:#800080;stroke-width:0.05;stroke-miterlimit:4;stroke-dasharray:none"
+         id="tspan4121">    violet - 10Gbps</tspan><tspan
+         sodipodi:role="line"
+         x="107.97"
+         y="200.91"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace;stroke-width:0.05;stroke-miterlimit:4;stroke-dasharray:none"
+         id="tspan30389">    <tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace;fill:#0000ff;stroke-width:0.05;stroke-miterlimit:4;stroke-dasharray:none"
+   id="tspan30433">blue   - 1Gbps</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="107.97"
+         y="205.99"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace;fill:#008000;stroke-width:0.05;stroke-miterlimit:4;stroke-dasharray:none"
+         id="tspan30391">    green  - 100Mbps</tspan><tspan
+         sodipodi:role="line"
+         x="107.97"
+         y="211.07"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace;fill:#808000;stroke-width:0.05;stroke-miterlimit:4;stroke-dasharray:none"
+         id="tspan30393">    <tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace;fill:#ecec30;fill-opacity:1;stroke:#808000;stroke-width:0.05;stroke-miterlimit:4;stroke-dasharray:none"
+   id="tspan30447">yellow</tspan><tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace;fill:#c0c040;fill-opacity:1;stroke-width:0.05;stroke-miterlimit:4;stroke-dasharray:none"
+   id="tspan30489"> - 10Mbps   (on light backgrounds, use dirty yellow since bright </tspan></tspan><tspan
+         sodipodi:role="line"
+         x="107.97"
+         y="216.15"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace;fill:#c0c040;fill-opacity:1;stroke-width:0.05;stroke-miterlimit:4;stroke-dasharray:none"
+         id="tspan4154">                        yellow doesn't show well)</tspan><tspan
+         sodipodi:role="line"
+         x="107.97"
+         y="221.23"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace;fill:#ff6600;stroke-width:0.05;stroke-miterlimit:4;stroke-dasharray:none"
+         id="tspan30395">    orange - 1Mbps</tspan><tspan
+         sodipodi:role="line"
+         x="107.97"
+         y="226.31"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace;fill:#ff6600;stroke-width:0.05;stroke-miterlimit:4;stroke-dasharray:none"
+         id="tspan30443">    <tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace;fill:#ff0000;stroke-width:0.05;stroke-miterlimit:4;stroke-dasharray:none"
+   id="tspan30445">red    - 100kbps</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="107.97"
+         y="231.39"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace;stroke-width:0.05;stroke-miterlimit:4;stroke-dasharray:none"
+         id="tspan30397">    <tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace;fill:#784421;stroke-width:0.05;stroke-miterlimit:4;stroke-dasharray:none"
+   id="tspan30435">brown  - 10kps</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="107.97"
+         y="236.47"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace;stroke-width:0.05;stroke-miterlimit:4;stroke-dasharray:none"
+         id="tspan30441">    black  - 1kbps or unspecified</tspan><tspan
+         sodipodi:role="line"
+         x="107.97"
+         y="241.55"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace;stroke-width:0.05;stroke-miterlimit:4;stroke-dasharray:none"
+         id="tspan30399" /><tspan
+         sodipodi:role="line"
+         x="107.97"
+         y="246.63"
+         style="stroke-width:0.05;stroke-miterlimit:4;stroke-dasharray:none"
+         id="tspan30487">Yep... the colors come from the Resistor Color Code.  It's the multiplier </tspan><tspan
+         sodipodi:role="line"
+         x="107.97"
+         y="251.71"
+         style="stroke-width:0.05;stroke-miterlimit:4;stroke-dasharray:none"
+         id="tspan4162">value in <tspan
+   style="font-weight:bold"
+   id="tspan4164">kbps </tspan>(thus gold, silver, &amp; pink can be used to gets ye down to 1 bps)</tspan><tspan
+         sodipodi:role="line"
+         x="107.97"
+         y="256.79"
+         style="stroke-width:0.05;stroke-miterlimit:4;stroke-dasharray:none"
+         id="tspan30485" /><tspan
+         sodipodi:role="line"
+         x="107.97"
+         y="261.87"
+         style="stroke-width:0.05;stroke-miterlimit:4;stroke-dasharray:none"
+         id="tspan30403">Each horizontal segment is a network &quot;hop&quot;; the chain of hops is a &quot;path&quot;.</tspan><tspan
+         sodipodi:role="line"
+         x="107.97"
+         y="266.95"
+         style="stroke-width:0.05;stroke-miterlimit:4;stroke-dasharray:none"
+         id="tspan30409">The length of each link indicates its latency.  Where large latency variations exist; use a log scale.</tspan><tspan
+         sodipodi:role="line"
+         x="107.97"
+         y="272.03"
+         style="stroke-width:0.05;stroke-miterlimit:4;stroke-dasharray:none"
+         id="tspan4692" /><tspan
+         sodipodi:role="line"
+         x="107.97"
+         y="277.11"
+         style="stroke-width:0.05;stroke-miterlimit:4;stroke-dasharray:none"
+         id="tspan30407">Vertical(-ish) transitions in the diagram are switches;</tspan><tspan
+         sodipodi:role="line"
+         x="107.97"
+         y="282.19"
+         style="stroke-width:0.05;stroke-miterlimit:4;stroke-dasharray:none"
+         id="tspan30415">if not quite vertical the horizontal component indicates</tspan><tspan
+         sodipodi:role="line"
+         x="107.97"
+         y="287.27"
+         style="stroke-width:0.05;stroke-miterlimit:4;stroke-dasharray:none"
+         id="tspan30417">switch-fabric latency.</tspan><tspan
+         sodipodi:role="line"
+         x="107.97"
+         y="292.35"
+         style="stroke-width:0.05;stroke-miterlimit:4;stroke-dasharray:none"
+         id="tspan30419" /><tspan
+         sodipodi:role="line"
+         x="107.97"
+         y="297.43"
+         style="stroke-width:0.05;stroke-miterlimit:4;stroke-dasharray:none"
+         id="tspan30421" /><tspan
+         sodipodi:role="line"
+         x="107.97"
+         y="302.51"
+         style="stroke-width:0.05;stroke-miterlimit:4;stroke-dasharray:none"
+         id="tspan30385" /></text>
+    <path
+       sodipodi:nodetypes="ccc"
+       inkscape:connector-curvature="0"
+       id="path31025"
+       d="M 105.67,259.95 C 84.96,259.54 66.552,194.63 63.3,168.89 60.051,143.16 60.501,131.74 60.501,131.74"
+       style="color:#000000;display:inline;overflow:visible;opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000080;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-end:url(#marker30511);paint-order:markers fill stroke" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000080;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-end:url(#marker31029);paint-order:markers fill stroke"
+       d="M 105.67,275.38 C 84.962,274.97 66.131,203.63 62.882,177.89 59.631,152.15 51.291,133.21 42.302,131.12"
+       id="path30501"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc" />
+    <text
+       xml:space="preserve"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:middle;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.52916;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       x="136.65"
+       y="96.976"
+       id="text4160"><tspan
+         sodipodi:role="line"
+         id="tspan4158"
+         x="136.65"
+         y="96.976"
+         style="font-size:7.05556px;stroke-width:0.52916">Beta-Lambda Network Graphs</tspan></text>
+    <text
+       xml:space="preserve"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:middle;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.52916;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       x="190.38"
+       y="103.61"
+       id="text4637"><tspan
+         sodipodi:role="line"
+         id="tspan4635"
+         x="190.38"
+         y="103.61"
+         style="font-size:2.11667px;stroke-width:0.52916">n-1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:middle;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.52916;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       x="190.44"
+       y="110.34"
+       id="text4641"><tspan
+         sodipodi:role="line"
+         id="tspan4639"
+         x="190.44"
+         y="110.34"
+         style="font-size:2.11667px;stroke-width:0.52916">i=0</tspan></text>
+    <text
+       xml:space="preserve"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-indent:0;text-align:end;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:end;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#808080;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.52916;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       x="315.36"
+       y="282.58"
+       id="text4727"><tspan
+         sodipodi:role="line"
+         x="315.36"
+         y="282.58"
+         style="font-size:4.58611px;text-align:end;text-anchor:end;fill:#cccccc;stroke-width:0.52916"
+         id="tspan4733">Uncle Spook</tspan><tspan
+         sodipodi:role="line"
+         x="315.36"
+         y="288.08"
+         style="font-size:4.58611px;text-align:end;text-anchor:end;fill:#808080;stroke-width:0.52916"
+         id="tspan4737">2020-10-31</tspan></text>
+  </g>
+</svg>
