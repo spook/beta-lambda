@@ -2,7 +2,9 @@
 
 Beta-Lambda Network Graphs β-λ are used to show the individual 
 latency (λ) & total latency (Λ) vs. the bandwidth for the hops 
-of a network path.  
+of a network path.
+
+![Beta-Lambda Graph Example](./β-λ-example.png)
 
 The lowest bandwidth limits (sets) the overall path bandwidth (Β or BW).
 
